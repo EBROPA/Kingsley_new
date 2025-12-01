@@ -18,8 +18,8 @@ const Team: React.FC = () => {
             >
                 <div className="aspect-[4/5] overflow-hidden relative shadow-2xl">
                     <img 
-                        src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop" 
-                        alt="Kingsley Team Meeting" 
+                        src="/img/team.jpg" 
+                        alt="Команда Kingsley на встрече" 
                         className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
                     />
                     <div className="absolute bottom-0 left-0 w-full h-1/2 bg-gradient-to-t from-black/60 to-transparent" />

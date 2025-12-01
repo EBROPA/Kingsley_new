@@ -19,8 +19,8 @@ const AboutSummary: React.FC<AboutSummaryProps> = ({ onNavigate }) => {
         >
             <div className="aspect-[4/3] overflow-hidden bg-primary/10">
                 <img 
-                    src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1200&auto=format&fit=crop" 
-                    alt="Meeting" 
+                    src="/img/we_arhetectors.avif" 
+                    alt="Встреча с клиентом" 
                     className="w-full h-full object-cover"
                 />
             </div>

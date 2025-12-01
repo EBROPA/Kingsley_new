@@ -30,7 +30,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent z-10" />
         
         <img
-          src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2000&auto=format&fit=crop"
+          src="/img/herosection.avif"
           alt="Luxury Interior"
           className="w-full h-full object-cover"
         />

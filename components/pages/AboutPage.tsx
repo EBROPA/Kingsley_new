@@ -33,8 +33,12 @@ const AboutPage: React.FC = () => {
       {/* Image & Philosophy & Stats */}
       <section className="mb-32">
           <div className="relative h-[600px] w-full mb-20 overflow-hidden">
-             <div className="absolute inset-0 bg-black/20 z-10" />
-             <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1600&auto=format&fit=crop" className="w-full h-full object-cover fixed-attachment" alt="Philosophy" />
+             <div className="absolute inset-0 bg-black/30 z-10" />
+             <img 
+               src="/img/privesy_ecspertnost_doverie.avif" 
+               className="w-full h-full object-cover fixed-attachment" 
+               alt="Приватность. Экспертиза. Доверие." 
+             />
              <div className="absolute inset-0 z-20 flex items-center justify-center">
                  <h2 className="font-serif text-5xl md:text-6xl text-white text-center">
                      "Приватность. <br/> Экспертиза. <br/> Доверие."
